@@ -1,0 +1,4 @@
+-IWAD "doom2.wad"
+-nojoy
+-skill 5
++map "MAP01"

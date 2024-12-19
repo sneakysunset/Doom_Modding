@@ -1,0 +1,372 @@
+================================================================
+Title                   : Lego Textures
+Filename                : legotex.wad
+Distributed As...	: legotex.zip
+Release Date		: 5th April 2002
+
+Author                  : Russell Pearson
+Email Address           : rddp@duellist.net
+Website			: www.duellist.net
+                          
+Description             : Lego themed replacement textures, patches
+			  and flats
+
+Additional Credits to   : The lego tree images were taken from
+			  Tom Cruickshank's lego sprites wad.
+			  Tom's lego doom site can be found at
+			  http://www.telusplanet.net/public/tomc
+
+Other Files By Author   : Null Space     (nulspace.zip)
+			  Lego Base 	 (legobase.zip)
+			  Tunnel Run     (tun-run.zip)
+			  Blastem 2      (blastem2.zip)
+			  DoomTown	 (doomtown.zip)
+			  Deleted Scene  (deleted.zip)
+			  Deleted Scene2 (deleted2.zip)
+			  Lego MAP01	 (legomap1.zip)
+			  Close Kill     (c-kill.zip)
+			  Voidtest       (voidtest.zip)
+			  Wood gfx       (woodgfx.zip)
+			  Doom2 Flats    (d2flats.zip)
+			  
+================================================================
+* Play Information *
+
+Advanced engine needed  : No
+New Levels		: None
+Episode and Level #     : n/a
+Single Player           : n/a
+Cooperative 2-4 Player  : n/a
+Deathmatch 2-4 Player   : n/a
+Difficulty Settings     : n/a
+Recommended Difficulty	: n/a
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Dehacked/BEX Patch      : No
+Demos Replaced          : No
+Other files required    : None
+
+* Construction *
+
+Base                    : n/a
+Editor(s) used          : Wintex, PSP
+Known Bugs              : None
+
+================================================================
+* Copyright *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse. In fact I encourage you to totally rip
+this wad apart if you need to...see the 'blah de blah' section
+below.
+
+This wad is copyright Russell DD Pearson (2002). You may
+distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+================================================================
+
+* Blah de blah de blah *
+
+Lego Textures.......
+
+Read the notes below. I think i've covered eveything there.
+
+
+-Russell Pearson (5th April 2002)
+ 
+email: rddp@duellist.net
+
+
+
+	***************** GENERAL NOTES *******************
+
+
+DIMENSIONS
+
+If you are familiar with lego you'll know that what is considered the
+'standard brick' is twice as long as it is wide, and has two rows of
+4 'bumps' on its top. I shall refer to this brick as a 4x2 brick or
+a '4 bump long' brick.
+
+I've based the textures around this brick. In doom dimensions this
+brick is 64 units long, 32 units wide and 32 units high. Okay, these
+aren't the exact correct relative dimensions of a standard 4x2 brick,
+but i've had to use a bit of artistic license.:)
+
+Similarly, the lego plates (that are the same width and length, but
+thinner) usually stack up 3 high to the standard 4x2 brick. This
+would give them a Doom height of 10.66 units. Again, using the excuse
+of artistic license, i've made them only 8 units high. This means
+that they can be used as a standard Doom step, but as a result
+they stack up 4 high to the standard 4x2 brick in Doom dimensions.
+
+The switch patches are 65 units long and 32 units high. I made them 65
+long, rather than 64, because the image i used looked slightly
+unbalanced at 64 units.
+
+You'll see that i've provided patches for bricks of 1,2,3,4,6 and 8 'bumps
+in length'. Simply remember that each 'bump' is 16 units long - eg the 
+standard 4x2 brick is '4 bumps long' and has a doom length of 64 units.
+
+
+TEXTURES AND PATCHES
+
+I'm presenting this as a kind of DIY texture set. There's a lot of
+patches included, some of which have been used in the textures
+provided in this wad. Some of the textures provided are of more
+generic walls, some are examples of patch combinations possible.
+However, the potential variations are huge. You may find that you
+need to create a specific texture from the patches provided to fit
+certain architectural features, or you may wish to try different
+colour combinations. 
+
+
+COLOURS
+
+Due to the limitations of dooms palette, some colours look better than
+others under differing lighting conditions. I've tended to use red
+and blue bricks alot in my lego levels because they generally tend to
+stay red and blue as the lighting drops. Other colours don't fare so
+well, the purple texture quickly becomes grey in dark conditions (try
+it and see for yourself). On the reverse side of things, red and blue
+look absolutely gross when the lighting reaches maximum IMO, set the
+brightness to 256 and put on your sunglasses :)
+
+
+INCLUDING LEGO TEXTURES IN YOUR WAD
+
+Feel free to use these textures in any way, shape or form in your levels.
+If you want to extract just a couple of patches/textures and include them
+in your wad thats fine. If you want to place the whole lot in your wad
+that's okay too. I tend to be disuaded from downloading wads that state
+'also requires x textures wad' or whatever. I'm just too lazy to go and
+look for the required file. I prefer a single downloadable file with
+everything embedded in the one wad, so i've no objection if you want to
+do this with any of the textures/patches/flats i've provided. Just mention
+in your text file that you got the graphics from here, thanks :)
+
+	
+CONTRIBUTIONS
+
+If you create a lego themed image (patch, flat, etc) which you think may
+be useful to other people, email it to me and i'll add it to this wad.
+I've only really touched the surface of possible lego textures, there are
+many things that can be added (eg lego style fences, window frames, doors,
+etc). You might even come up with a better brick colour that suits the doom
+palette.
+
+
+HELP
+
+If you are unsure of how to create textures using patches read the
+documentation that comes with Wintex. It has a good tutorial covering
+this subject and should provide the answers to any questions you may
+have. 
+
+
+	********************* FLATS ***********************
+
+
+This is a complete set of flat replacements, all flats in Doom2
+are replaced. I've tried to apply some logic to the order, so 
+that in the Wadauthor flat viewer all the appropriate colours and
+styles are grouped together.
+
+The variations possible are huge, so you may want to create your
+own flats if you don't see what you need here. There are a few flats
+intentionally unused at the end of the wad, so that you can use 
+these should you wish to include your own, but not overwrite any
+existing ones.
+
+
+	******************** TEXTURES *********************
+
+
+LEGO_001 to 006	- Lego logo textures. Good for doors and other
+		  such stuff.
+
+LEGO_010 to 017 - Single colour textures using the standard 4x2
+		  (4 bumps long, 2 wide) lego brick. Good textures
+		  for general use. Each brick is 32 units high and
+		  64 units long.
+
+LEGO_050 to 051 - Similar to the above, but includes the odd 8x2
+		  brick patch to make the texture appear less,
+		  erm, 'uniform'. 
+
+LEGO_100 to 123 - A group of textures showing the vast number of
+		  differing textures that can be produced using
+		  the patches provided. Here I used red and blue,
+		  but obviously any of the colours can be used
+		  (although some go better together than others).
+
+LEGO_210 to 215 - Some examples of differing colour combinations.
+		  Urg, that purple and blue texture is hideous.
+
+LEGO_310 to 325 - Textures best suited to the sides and fronts of
+		  steps. These are intended to give the impression
+		  of thin lego 'plates' stacked on top of each 
+		  other. Each plate is 8 units high and 32 or 64
+		  units long (depending on which one you use).
+
+LEGO_410 to 417 - Textures that represent the tops of lego bricks.
+		  Obviously the 'flats' versions of these images
+		  will get more use but i've included this graphic
+		  as a wall texture in case someone feels the need
+		  to use it.
+		  	You could try to give the impression of
+		  bricks on their sides but then you'd probably need
+		  the 'underneath' graphic available as a texture
+		  and the brick 'side' graphic available as a flat.
+		  I haven't included these in this wad, but using a
+	          good graphics program you should be able to construct
+		  these from the patches and flats provided and then
+		  insert them using wintex or similar.
+
+LEGO_510 to 517 - Similar to 010-017 (single colour 4x2 bricks) but
+		  with an apparent 32 unit offset. useful when the
+		  alignment of both upper and lower textures conflict
+		  to mess up the asthetics. I doubt this makes much
+		  sense (but you'll understand instantly if you ever
+		  have to use them).
+
+LEGO_610 to 611 - Lego trees! Being a texture rather than a thing,
+		  these will look flat if the player can get to close
+		  and veiw them from a narrow angle. Best used as
+		  scenery in the distance.
+
+SW1xx to SW2xx  - Switches. I've replaced all of the switch graphics
+		  with lego styled ones. You may want to play around
+		  with the patches and come up with your own.
+
+
+
+	******************** PATCHES **********************
+
+
+LOGO_R1	   (64x64)	lego logo - small - on red background
+LOGO_R2	 (128x128)	lego logo - large - on red background
+LOGO_R3	 (192x128)	lego logo - large - on wide red background
+LOGO_G1	   (64x64)	lego logo - small - on grey background
+LOGO_G2	 (128x128)	lego logo - large - on grey background
+LOGO_G3	  (192x96)	lego logo - large - on wide/short grey background
+	
+LEGO_RED  (64x128) 	section of wall made from '4 bump long' red bricks
+LEGO_BLU  (64x128) 	section of wall made from '4 bump long' blue bricks
+LEGO_PUR  (64x128) 	section of wall made from '4 bump long' purple bricks
+LEGO_MUS  (64x128) 	section of wall made from '4 bump long' mustard/yellow bricks
+LEGO_GRN  (64x128) 	section of wall made from '4 bump long' green bricks
+LEGO_GRY  (64x128) 	section of wall made from '4 bump long' grey bricks
+LEGO_DRK  (64x128) 	section of wall made from '4 bump long' black bricks
+LEGO_WHT  (64x128) 	section of wall made from '4 bump long' white bricks
+
+the following 8 textures are similar to the 8 above
+but have an apparent 32 unit offset. See notes for
+'LEGO_510 to 517' in the textures section above.
+
+LEGO2RED  (64x128) 	section of wall made from '4 bump long' red bricks 
+LEGO2BLU  (64x128) 	section of wall made from '4 bump long' blue bricks
+LEGO2PUR  (64x128) 	section of wall made from '4 bump long' purple bricks
+LEGO2MUS  (64x128) 	section of wall made from '4 bump long' mustard/yellow bricks
+LEGO2GRN  (64x128) 	section of wall made from '4 bump long' green bricks
+LEGO2GRY  (64x128) 	section of wall made from '4 bump long' grey bricks
+LEGO2DRK  (64x128) 	section of wall made from '4 bump long' black bricks
+LEGO2WHT  (64x128) 	section of wall made from '4 bump long' white bricks
+
+LEGO3RED   (64x64)	brick top - red
+LEGO3BLU   (64x64)	brick top - blue
+LEGO3PUR   (64x64)	brick top - purple
+LEGO3MUS   (64x64)	brick top - mustard/yellow
+LEGO3GRN   (64x64)	brick top - green
+LEGO3GRY   (64x64)	brick top - grey
+LEGO3DRK   (64x64)	brick top - black
+LEGO3WHT   (64x64)	brick top - white
+
+RED_1	   (16x32)	red brick - 1 bump long
+RED_2	   (32x32)	red brick - 2 bumps long
+RED_3	   (48x32)	red brick - 3 bumps long
+RED_4	   (64x32)	red brick - 4 bumps long
+RED_6	   (96x32)	red brick - 6 bumps long
+RED_8	  (128x32)	red brick - 8 bumps long
+
+BLUE_1	   (16x32)	blue brick - 1 bump long
+BLUE_2	   (32x32)	blue brick - 2 bumps long
+BLUE_3	   (48x32)	blue brick - 3 bumps long
+BLUE_4	   (64x32)	blue brick - 4 bumps long
+BLUE_6	   (96x32)	blue brick - 6 bumps long
+BLUE_8	  (128x32)	blue brick - 8 bumps long
+
+PURPLE_1   (16x32)	purple brick - 1 bump long
+PURPLE_2   (32x32)	purple brick - 2 bumps long
+PURPLE_3   (48x32)	purple brick - 3 bumps long
+PURPLE_4   (64x32)	purple brick - 4 bumps long
+PURPLE_6   (96x32)	purple brick - 6 bumps long
+PURPLE_8  (128x32)	purple brick - 8 bumps long
+
+MUSTRD_1   (16x32)	mustard/yellow brick - 1 bump long
+MUSTRD_2   (32x32)	mustard/yellow brick - 2 bumps long
+MUSTRD_3   (48x32)	mustard/yellow brick - 3 bumps long
+MUSTRD_4   (64x32)	mustard/yellow brick - 4 bumps long
+MUSTRD_6   (96x32)	mustard/yellow brick - 6 bumps long
+MUSTRD_8  (128x32)	mustard/yellow brick - 8 bumps long
+
+GREEN_1    (16x32)	green brick - 1 bump long
+GREEN_2    (32x32)	green brick - 2 bumps long
+GREEN_3    (48x32)	green brick - 3 bumps long
+GREEN_4    (64x32)	green brick - 4 bumps long
+GREEN_6    (96x32)	green brick - 6 bumps long
+GREEN_8   (128x32)	green brick - 8 bumps long
+
+GREY_1	   (16x32)	grey brick - 1 bump long
+GREY_2	   (32x32)	grey brick - 2 bumps long
+GREY_3	   (48x32)	grey brick - 3 bumps long
+GREY_4	   (64x32)	grey brick - 4 bumps long
+GREY_6	   (96x32)	grey brick - 6 bumps long
+GREY_8	  (128x32)	grey brick - 8 bumps long
+
+DARK_1	   (16x32)	black brick - 1 bump long
+DARK_2	   (32x32)	black brick - 2 bumps long
+DARK_3	   (48x32)	black brick - 3 bumps long
+DARK_4	   (64x32)	black brick - 4 bumps long
+DARK_6	   (96x32)	black brick - 6 bumps long
+DARK_8	  (128x32)	black brick - 8 bumps long
+
+WHITE_1    (16x32)	white brick - 1 bump long
+WHITE_2    (32x32)	white brick - 2 bumps long
+WHITE_3    (48x32)	white brick - 3 bumps long
+WHITE_4    (64x32)	white brick - 4 bumps long
+WHITE_6    (96x32)	white brick - 6 bumps long
+WHITE_8   (128x32)	white brick - 8 bumps long
+
+RDSTEP1    (64x32)	stacked '4 bump long' plates - red
+RDSTEP2    (64x32)	stacked '2 bump long' plates - red
+BLSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate blue
+BLSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate blue
+PRSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate purple
+PRSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate purple
+MSSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate mustard/yellow
+MSSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate mustard/yellow
+GRSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate green
+GRSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate green
+GYSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate grey
+GYSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate grey
+DKSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate black
+DKSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate black
+WTSTEP1    (64x32)	stacked '4 bump long' plates - red - with top plate white
+WTSTEP2    (64x32)	stacked '2 bump long' plates - red - with top plate white
+
+SW1S0      (65x32)	red switch 	- unactivated 
+SW1S1      (65x32)	red switch 	- activated (or vice versa) :)
+SW2S0      (65x32)	yellow switch 	- unactivated
+SW2S1      (65x32)	yellow switch 	- activated
+SW3S0      (65x32)	blue switch 	- unactivated
+SW3S1      (65x32)	blue switch 	- activated
+SW4S0      (65x32)	grey switch 	- unactivated
+SW4S1      (65x32)	grey switch 	- activated
+
+L_TREE1   (64x128)	Tall tree
+L_TREE2   (64x128)	Short tree
+
+
+	*********************** END **********************

@@ -1,0 +1,25 @@
+:Base .\Doom95.hlp
+:Title DOOM II Help
+:Index Doom Help=./doom95.hlp
+1 Doom II: Hell on Earth
+2 Welcome=DoomContents
+2 The Story Continues=TheStoryContinues
+2 The Environment=Environment
+2 The Bad Guys=TheEnemy
+2 Your Weapons=FirePower
+2 Things To Find
+3 Alien Artifacts=Artifacts
+3 Health And Armor=Health
+3 Power-Ups=PowerUps
+1 Setting Up Doom II
+2 Installing=Setup
+2 Uninstalling=Uninstall
+2 Reinstalling=Reinstall
+2 Configuring Doom II=Config
+1 How To Play Doom II
+2 The Controls=Controls
+2 On-Screen Information=OnScreen
+2 The DOOM II Menus=DoomMenu
+2 Command Key Summary=CommandKeys
+2 The Launcher=Launch
+2 Multi-Player Games=Multiplayer
